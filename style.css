@@ -1,0 +1,666 @@
+
+
+.main{
+    height: 150px;
+    width: 100%;
+    background-color:  #075e54;
+    display: inline-block;
+    position: relative;
+    
+    
+}
+
+.top{
+    height: 70px;
+    width: 92.30%;
+    background-color: rgb(173, 192, 210);
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -130px;
+    
+}
+
+.haller{
+    height: 530px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+
+
+.monday{
+    height: 70px;
+    width: 63%;
+    background-color: rgbrgb(173, 192, 210);
+    position: absolute;
+    margin-left: 450px;
+    margin-top: -130px;
+    border: 1px solid black; 
+}
+
+.happy{
+
+    margin-top: -60px;
+    margin-left: 450px;
+    position: absolute;
+    background-color: rgb(240, 240, 226);
+    width: 63%;
+    height: 500px
+    
+    
+        
+}
+
+
+.bottom{
+        height: 60px;
+        width: 63%;
+        background-color: rgb(173, 192, 210);
+        position: absolute;
+        margin-left: 450px;
+        margin-top: 410px;
+}
+
+.png{
+    display: inline-block;
+    position: relative;
+    
+}
+
+.png1{
+    height: 50px;
+    position: absolute;
+    margin-top: -545px;
+    margin-left: -380px;
+}
+
+
+.png2{
+    height: 30px;
+    position: absolute;
+    margin-top: -535px;
+    margin-left: -100px;
+}
+
+
+.png3{
+    height: 50px;
+    position: absolute;
+    margin-top: -545px;
+    margin-left: -50px;
+}
+
+.water{
+    display: inline-block;
+    position: relative;
+}
+
+.water1{
+    height: 40px;
+    position: absolute;
+    margin-left: 470px;
+    margin-top: -130px;
+    border-radius: 50%;
+}
+
+.water2{
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    margin-left: 520px;
+    margin-top: -125px;
+
+}
+
+.water3{
+    position: absolute;
+    margin-left: 520px;
+    margin-top: -105px;
+    font-size: small;
+    color: rgb(130, 125, 125);
+
+}
+
+.juice{
+    display: inline-block;
+    position: relative;
+}
+
+.juice1{
+    height: 30px;
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 1190px;
+    
+}
+
+.juice2{
+    height: 60px;
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 1230px;
+}
+
+
+.class{
+    
+     position: relative;
+     display: inline-block;
+}
+
+.apna{
+    overflow-y: scroll;
+}
+
+
+
+.view{
+    position: absolute;
+    height: 600px;
+    margin-top: -10px;
+    overflow-y: scroll;
+}
+
+.view>li{
+    height: 50px;
+    margin-left: 80px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+
+.us{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -70px;
+    height: 40px;
+    width: 370px;
+}
+
+.us1{
+    position: absolute;
+    margin-left: 160px;
+    margin-top: -55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.us2{
+    height: 20px;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: -58px;
+}
+
+.week{
+    height: 40px;
+    position: relative;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top: -15px;
+}
+
+.week1{
+    height: 40px;
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top: 35px;
+}
+
+.week2{
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 90px;
+}
+
+.week3{
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 150px;
+}
+
+.week4{
+    height: 40px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 205px;
+}
+
+.week5{
+    height: 35px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 260px;
+}
+
+.week6{
+    height: 35px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 310px;
+}
+
+.week7{
+    height: 35px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 360px;
+}
+
+.week8{
+    height: 50px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 65px;
+    margin-top: 402px;
+}
+
+.week9{
+    height: 35px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 460px;
+}
+
+.week10{
+    height: 50px;
+    position: absolute;
+    border-radius: 100%;
+    margin-left: 65px;
+    margin-top: 502px;
+}
+
+
+ul.view{
+    height: 460px
+}
+
+
+
+.view1{
+    
+    margin-left: 20px;
+    margin-top: -12px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view2{
+    position: absolute;
+    margin-top: -40px;
+
+    
+}
+
+.view3{
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+    
+}
+
+.view4{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 40px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view5{
+    position: absolute;
+    margin-top: 10px;
+
+}
+.view6{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view7{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 95px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view8{
+    position: absolute;
+    margin-top: 65px;
+}
+
+.view9{
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view10{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 150px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view11{
+    position: absolute;
+    margin-top: 120px;
+}
+
+.view12{
+    position: absolute;
+    margin-top: 135px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view13{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 205px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view14{
+    position: absolute;
+    margin-top: 175px;
+}
+
+.view15{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view16{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 260px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view17{
+    position: absolute;
+    margin-top: 230px;
+}
+
+.view18{
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view19{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 310px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view20{
+    position: absolute;
+    margin-top: 280px;
+}
+
+.view21{
+    position: absolute;
+    margin-top: 295px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view22{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 360px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view23{
+    position: absolute;
+    margin-top: 330px;
+}
+
+.view24{
+    position: absolute;
+    margin-top: 345px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view25{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 410px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view26{
+    position: absolute;
+    margin-top: 380px;
+}
+
+.view27{
+    position: absolute;
+    margin-top: 395px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view28{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 460px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view29{
+    position: absolute;
+    margin-top: 430px;
+}
+
+.view30{
+    position: absolute;
+    margin-top: 445px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.view31{
+    position: absolute;
+    margin-left: -378px;
+    margin-top: 510px;
+    height: 50px;
+    width: 370px;
+    border: none;
+}
+
+.view32{
+    position: absolute;
+    margin-top: 480px;
+}
+
+.view33{
+    position: absolute;
+    margin-top: 495px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: green;
+}
+
+.look{
+    position: relative;
+    display: inline-block;
+    
+}
+
+
+.urgent{
+    
+    position: absolute;
+    height: 600px;
+    margin-top: -10px;
+    
+}
+
+
+.machine{
+    position: relative;
+}
+
+.machine1{
+    height: 25px;
+    width: 150px;
+    margin-top: 190px;
+    background-color: rgba(127, 251, 255, 0.862);
+    border-radius: 10px;
+    margin-left: 800px;
+    position: absolute
+    
+}
+
+.machine2{
+    position: absolute;
+    margin-left: 830px;
+    color: grey;
+    margin-top: 195px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.machine3{
+    height: 45px;
+    width: 380px;
+    margin-top: 220px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin-left: 800px;
+    position: absolute
+    
+}
+
+.machine4{
+    position: absolute;
+    margin-left: 830px;
+    color: black;
+    margin-top: 230px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+.machine5{
+    position: absolute;
+    height: 30px;
+    width: 300px;
+    background-color: white;
+    margin-left: 520px;
+    margin-top: 270px;
+    border-radius: 10px;
+}
+
+
+.machine6{
+    position: absolute;
+    margin-left: 550px;
+    color: black;
+    margin-top: 277px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
+
+.house{
+    position: absolute;
+    display: inline-block;
+}
+
+.house1{
+    height: 50px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 400px;
+}
+
+.house2{
+    position: absolute;
+    background-color: white;
+    margin-left: 520px;
+    height: 35px;
+    width: 700px;
+    margin-top: 385px;
+    border-radius: 10px;
+    border-color: white;
+    
+}
+
+.house3{
+    position: absolute;
+    height: 30px;
+    margin-top: 390px;
+    margin-left: 470px;
+}
+
+.house4{
+    position: absolute;
+    height: 30px;
+    margin-top: 390px;
+    margin-left: 1240px;
+}
